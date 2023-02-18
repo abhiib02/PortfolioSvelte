@@ -183,9 +183,9 @@
     }
     .boxes ul li:hover {
         transform: scale(1.5);
+        outline: 1px solid var(--maincolor);
         transform-origin: center;
         border-radius: 10px;
-        background: var(--maincolor);
-        opacity: 0.8;
+        background: #111;
     }
 </style>
