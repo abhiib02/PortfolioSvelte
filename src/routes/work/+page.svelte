@@ -42,7 +42,7 @@
         {/each}
     </div>
     <div class="Drag">
-        <div style="width:50%;">
+        <div style="width:50%;display:flex;justify-content:space-evenly;">
         <span class="main-color">&larr;</span> 
         DRAG
         <span class="main-color">&rarr;</span>
