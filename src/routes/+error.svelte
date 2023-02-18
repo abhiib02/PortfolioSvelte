@@ -2,7 +2,7 @@
 <div class="container">
     <div>
     <div class="Heading">ERROR</div>
-    <div class="Heading maincolor">404</div>
+    <div class="Heading maincolor">4🤔4</div>
     </div>
 </div>
 <style>
