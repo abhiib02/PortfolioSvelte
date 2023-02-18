@@ -42,6 +42,9 @@
         justify-content: space-between;
         padding: 2rem 6rem 0 6rem;
     }
+    .social{
+        font-size:1.6rem;
+    }
     .logo {
         width: 3rem;
         height: 3rem;
