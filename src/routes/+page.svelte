@@ -44,7 +44,7 @@
         90%{
             filter:grayscale(1);
         }
-        95%{
+        96%{
              filter:grayscale(0);
         }
         100%{
