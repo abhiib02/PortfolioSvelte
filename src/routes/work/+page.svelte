@@ -42,7 +42,8 @@
         {/each}
     </div>
     <div class="Drag">
-        <span class="main-color">&larr;</span> DRAG
+        <span class="main-color">&larr;</span> 
+        DRAG
         <span class="main-color">&rarr;</span>
     </div>
 </div>
@@ -71,10 +72,11 @@
         grid-area: Slider;
     }
     .Drag {
+        width:50%;
         grid-area: Drag;
         font-size: 2rem;
         display: flex;
-        justify-content: center;
+        justify-content: space-evenly;
         color: white;
     }
     .main-color {
