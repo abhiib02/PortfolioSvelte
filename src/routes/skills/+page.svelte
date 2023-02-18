@@ -155,7 +155,7 @@
     }
 
     .boxes {
-        width: 68%;
+        width: 330px;
         height: 50%;
         grid-area: boxes;
         place-self: center;
