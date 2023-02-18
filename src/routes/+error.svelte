@@ -1,7 +1,9 @@
 <script></script>
 <div class="container">
+    <div>
     <div class="Heading">ERROR</div>
     <div class="Heading maincolor">404</div>
+    </div>
 </div>
 <style>
     .container{
@@ -12,7 +14,6 @@
     .Heading {
         font-size: 6rem;
         font-weight: bold;
-        place-self: center;
         color: white;
     }
     .maincolor {
