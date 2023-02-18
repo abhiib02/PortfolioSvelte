@@ -3,7 +3,7 @@
 
 <nav>
     <div class="logo">
-        <img src="logo.svg" alt="" />
+        <a href="/"><img src="logo.svg" alt="" /></a>
     </div>
     <ul>
         <li><a href="/">Home</a></li>

@@ -32,10 +32,11 @@
     </div>
 
     <div class="Footer">
-        Made With 💓 using &nbsp;<img
+        Made With 💓 using &nbsp;
+        <a href="https://kit.svelte.dev/"><img
             src="https://miro.medium.com/max/400/0*r6OTkIa8jyneCBGY.png"
             alt=""
-        />
+        /></a>
     </div>
 
     <form
