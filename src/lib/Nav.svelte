@@ -48,6 +48,7 @@
     .logo {
         width: 3rem;
         height: 3rem;
+        margin-right: 6rem;
     }
     ul {
         margin: auto 0;

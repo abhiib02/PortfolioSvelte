@@ -15,8 +15,10 @@
         font-size: 6rem;
         font-weight: bold;
         color: white;
+        text-align: center;
     }
     .maincolor {
+        text-align: center;
         font-size:10rem;
         color: var(--maincolor);
     }
