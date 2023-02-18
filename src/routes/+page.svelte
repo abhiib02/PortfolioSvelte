@@ -35,6 +35,18 @@
         bottom: 0;
         height: 100vh;
         z-index: -1;
+        animation : video-bg 8.36s ease forwards;
+        }
+    @keyframes video-bg{
+        0%{
+            filter:grayscale(1);
+        }
+        90%{
+            filter:grayscale(1);
+        }
+        100%{
+            filter:brightness(1.5);
+        }
     }
     .container {
         display: grid;
