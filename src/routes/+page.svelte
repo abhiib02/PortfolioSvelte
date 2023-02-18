@@ -45,6 +45,9 @@
             filter:grayscale(1);
         }
         98%{
+            filter:grayscale(1);
+        }
+        99%{
              filter:grayscale(0);
         }
         100%{
