@@ -4,7 +4,7 @@
 </script>
 
 <video autoplay muted id="myVideo">
-    <source src="vdo.mp4" type="video/mp4" />
+    <source src="vdo.webm" type="video/webm" />
 </video>
 <div class="container">
     <div class="carousal" />
