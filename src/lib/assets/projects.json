@@ -1,0 +1,357 @@
+[
+    {
+       "Name": "Voyagersbeat",
+       "Type": "Travel Agency Website for customized Packages and Booking",
+       "Tech": [
+          "html5",
+          "css3",
+          "js",
+          "php"
+       ],
+       "Desc":"Travel Agency Website for customized Packages and Booking",
+       "Image": "vbnov2022.png",
+       "Link": "https://voyagersbeat.com",
+       "Status": "Online",
+       "Published": "Mar 2019",
+       "Info": "Currently Working",
+       "Github":"https://github.com/abhiib02/Voyagersbeat"
+    },
+    {
+       "Name": "Youtube",
+       "Type": "Browser Extension",
+       "Tech": [
+          "js"
+       ],
+       "Desc":"A Youtube Thumbnail Downloader used by youtuber",
+       "Image": "ytd.png",
+       "Link": "https://microsoftedge.microsoft.com/addons/detail/hero-thumb-downloader/eionhgcppdmoemnmfgegpkdggipbfank",
+       "Status": "Online",
+       "Published": "Sep 2022",
+       "Github":"https://github.com/abhiib02/HeroThumbDownloader"
+    },
+    {
+       "Name": "Exhaustbaba",
+       "Type": "Bike Exhaust and Silencer Trader",
+       "Tech": [
+          "vuejs",
+          "css3",
+          "js"
+       ],
+       "Image": "eb.png",
+       "Link": "https://exhaustbaba.com/",
+       "Status": "Online",
+       "Published": "Jun 2022",
+       "Github":"https://github.com/abhiib02/exhaust-baba"
+    },
+    {
+       "Name": "Lite Carousal",
+       "Type": "Javacript Practice (Personal Side Project)",
+       "Tech": [
+          "html5",
+          "css3",
+          "js"
+       ],
+       "Image": "uls.jpg",
+       "Link": "https://github.com/abhiib02/Ultra_Lite_Carousal",
+       "Status": "Online",
+       "Published": "Feb 2022",
+       "Github":"https://github.com/abhiib02/Ultra_Lite_Carousal"
+       
+    },
+    {
+       "Name": "Elliot Waves",
+       "Type": "Investment and Trading Tool",
+       "Tech": [
+          "html5",
+          "css3",
+          "js"
+       ],
+       "Image": "ewc.png",
+       "Link": "https://abhiib02.github.io/elliot_wave_calc/",
+       "Status": "Online",
+       "Published": "Dec 2021",
+       "Github":"https://github.com/abhiib02/elliot_wave_calc"
+    },
+    {
+       "Name": "Bhardwaj Netlify",
+       "Type": "Old PortFolio",
+       "Tech": [
+          "html5",
+          "css3",
+          "vuejs"
+       ],
+       "Image": "oldportfolio.png",
+       "Link": "https://bhardwaj.netlify.app/#/",
+       "Status": "Online",
+       "Published": "Nov 2019",
+       "Github":"https://github.com/abhiib02/vue"
+    },
+    {
+       "Name": "V3 Plus",
+       "Type": "Electrical Accessories Manufacturing Company",
+       "Tech": [
+          "html5",
+          "css3",
+          "js",
+          "php"
+       ],
+       "Image": "v3.png",
+       "Link": "http://v3plusswitches.com/",
+       "Status": "Offline",
+       "Published": "Jun 2021"
+    },
+    {
+       "Name": "Daikichi Service",
+       "Type": "Consultancy for india and japan",
+       "Tech": [
+          "html5",
+          "css3",
+          "js",
+          "php"
+       ],
+       "Image": "daikichi.png",
+       "Link": "https://daikichiconsulting.com/",
+       "Status": "Online",
+       "Published": "Jan 2021"
+    },
+    {
+       "Name": "Laxmicart.com",
+       "Type": "Online Book Seller E-Commerce",
+       "Tech": [
+          "html5",
+          "css3",
+          "js",
+          "wordpress"
+       ],
+       "Image": "laxmi.png",
+       "Link": "https://laxmicart.com/",
+       "Status": "Offline",
+       "Published": "Jan 2021"
+    },
+    {
+       "Name": "SimpleCarousel",
+       "Type": "Javacript Practice (Personal Side Project)",
+       "Tech": [
+          "html5",
+          "css3",
+          "js",
+          "vuejs"
+       ],
+       "Image": "carousal.jpg",
+       "Link": "https://abhiib02.github.io/Simplest-Carousal/",
+       "Status": "Online",
+       "Published": "Dec 2020",
+       "Github":"https://github.com/abhiib02/Simplest-Carousal"
+    },
+    {
+       "Name": "Woolman",
+       "Type": "Textile Machinery Distributor Website",
+       "Tech": [
+          "html5",
+          "css3",
+          "js",
+          "php"
+       ],
+       "Image": "woolman.jpg",
+       "Link": "https://woolman.in",
+       "Status": "Offline",
+       "Published": "Nov 2020"
+    },
+    {
+       "Name": "TicTacToe",
+       "Type": "Vue Web App (Personal Side Project)",
+       "Tech": [
+          "html5",
+          "css3",
+          "vuejs"
+       ],
+       "Image": "tictactoe.png",
+       "Link": "https://csb-gm3zpl.netlify.app/",
+       "Status": "Online",
+       "Published": "Nov 2020",
+       "Github":"https://github.com/abhiib02/Tic_Tac_Toe"
+    },
+    {
+       "Name": "Polar Autos",
+       "Type": "Seating manufacturing company Website",
+       "Tech": [
+          "html5",
+          "css3",
+          "js",
+          "php"
+       ],
+       "Image": "polarauto.png",
+       "Link": "https://polarauto.in",
+       "Status": "Offline",
+       "Published": "Oct 2020"
+    },
+    {
+       "Name": "Sachin Pack",
+       "Type": "Android App",
+       "Tech": [
+          "html5",
+          "css3",
+          "js",
+          "vuejs"
+       ],
+       "Image": "splogo.png",
+       "Link": "",
+       "Status": "Offline",
+       "Published": "May 2020"
+    },
+    {
+       "Name": "gangmy.design",
+       "Type": "Graphic Designer Portfolio Website",
+       "Tech": [
+          "html5",
+          "css3",
+          "js",
+          "php"
+       ],
+       "Image": "gang.jpg",
+       "Link": "http://gangmy.design/",
+       "Status": "Offline",
+       "Published": "Oct 2020"
+    },
+    {
+       "Name": "unitedchemical",
+       "Type": "Chemicle Business Company Website",
+       "Tech": [
+          "html5",
+          "css3",
+          "js"
+       ],
+       "Image": "uci.jpg",
+       "Link": "http://unitedchemical.in/",
+       "Status": "Online",
+       "Published": "Oct 2019"
+    },
+    {
+       "Name": "madanfashion",
+       "Type": "A Clothing Company Website",
+       "Tech": [
+          "html5",
+          "css3",
+          "js",
+          "php",
+          "wordpress"
+       ],
+       "Image": "mf.jpg",
+       "Link": "http://madanfashion.in/",
+       "Status": "Offline",
+       "Published": "Sep 2019"
+    },
+    {
+       "Name": "Victory World",
+       "Type": "Travel Website",
+       "Tech": [
+          "html5",
+          "css3",
+          "js",
+          "php"
+       ],
+       "Image": "vwt.jpg",
+       "Link": "http://vwt.epizy.com",
+       "Status": "Offline",
+       "Published": "Sep 2019",
+       "Github":"https://github.com/abhiib02/Victoryworldtourism"
+    },
+    {
+       "Name": "woodcraft",
+       "Type": "Interior Designing Company Website",
+       "Tech": [
+          "html5",
+          "css3",
+          "js",
+          "php"
+       ],
+       "Image": "wci.jpg",
+       "Link": "https://www.woodcraftint.com/",
+       "Status": "Online",
+       "Published": "May 2019"
+    },
+    {
+       "Name": "gybindia",
+       "Type": "Business Consultation Company Website",
+       "Tech": [
+          "html5",
+          "css3",
+          "js",
+          "php"
+       ],
+       "Image": "gyb.jpg",
+       "Link": "https://sitesdemo.netlify.app/gyb/",
+       "Status": "Online",
+       "Published": "May 2019",
+       "Github":"https://github.com/abhiib02/demo_sites/tree/master/gyb"
+    },
+    {
+       "Name": "backstage",
+       "Type": "Modeling and photography Company Website",
+       "Tech": [
+          "html5",
+          "css3",
+          "js",
+          "php"
+       ],
+       "Image": "bsm.jpg",
+       "Link": "https://sitesdemo.netlify.app/backstage/",
+       "Status": "Online",
+       "Published": "April 2019",
+       "Github":"https://github.com/abhiib02/demo_sites/tree/master/backstage"
+    },
+    {
+       "Name": "dexo.media",
+       "Type": "Digital Marketing Agency Website",
+       "Tech": [
+          "html5",
+          "css3",
+          "js",
+          "php"
+       ],
+       "Image": "dexo.jpg",
+       "Link": "http://www.dexo.media/",
+       "Status": "Offline",
+       "Published": "April 2019"
+    },
+    {
+       "Name": "petitepebble",
+       "Type": "Business Consultation Company Website",
+       "Tech": [
+          "html5",
+          "css3",
+          "js",
+          "php"
+       ],
+       "Image": "pp.jpg",
+       "Link": "http://www.petitepebble.com/",
+       "Status": "Offline",
+       "Published": "Dec 2018"
+    },
+    {
+       "Name": "scc-education",
+       "Type": "A Tutor Company Website",
+       "Tech": [
+          "html5",
+          "css3",
+          "blogger"
+       ],
+       "Image": "scc.jpg",
+       "Link": "https://www.scc-education.com/",
+       "Status": "Online",
+       "Published": "Jun 2015"
+    },
+    {
+       "Name": "dynamohack",
+       "Type": "My Old Tips and Tricks Blog",
+       "Tech": [
+          "html5",
+          "css3",
+          "blogger"
+       ],
+       "Image": "dynamo.jpg",
+       "Link": "https://dynamohack.blogspot.com/",
+       "Status": "Online",
+       "Published": "Aug 2013"
+    }
+ ]
