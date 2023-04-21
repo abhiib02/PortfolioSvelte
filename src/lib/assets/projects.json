@@ -1,5 +1,22 @@
 [
    {
+      "Name": "NXTWAY startup",
+      "Type": "Static Website",
+      "Tech": [
+         "html5",
+         "css3",
+         "js",
+         "php"
+      ],
+      "Desc": "A Website for compliance issues that small businesses and startups face",
+      "Image": "nxt2023.png",
+      "Link": "https://nxtwaystartup.com/",
+      "Status": "Online",
+      "Published": "Apr 2023",
+      "Info": "",
+      "Github": ""
+   },
+   {
       "Name": "Voyagersbeat",
       "Type": "Travel Agency Website for customized Packages and Booking",
       "Tech": [
