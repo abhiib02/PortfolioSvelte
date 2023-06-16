@@ -1,5 +1,37 @@
 [
    {
+      "Name": "Yog Shiva",
+      "Type": "A Weed & Marijuana Product manufacturer",
+      "Tech": [
+         "html5",
+         "css3",
+         "js",
+         "wordpress",
+         "woocommerce"
+      ],
+      "Desc": "A Ecommerce Website for Weed & Marijuana Product manufacturer ",
+      "Image": "https: //i.ibb.co/7g0Nrc1/image.png",
+      "Link": "#",
+      "Status": "Online",
+      "Published": "May 2023",
+      "Info": ""
+   },
+   {
+      "Name": "Singh And Singh",
+      "Type": "Property Dealer Website",
+      "Tech": [
+         "html5",
+         "css3",
+         "js"
+      ],
+      "Desc": "A Website for Property Dealer who deal in property through out Delhi NCR",
+      "Image": "https://i.ibb.co/qyrh2QS/image.png",
+      "Link": "https://singhnsingh.com/",
+      "Status": "Online",
+      "Published": "May 2023",
+      "Info": ""
+   },
+   {
       "Name": "NXTWAY startup",
       "Type": "A Website for compliance issues that small businesses and startups face",
       "Tech": [

@@ -4,7 +4,11 @@
 
 <div class="workCard">
     <div class="workImage">
+        {#if (project.Image).includes('http')}
+        <img src="{project.Image}" alt="" />
+        {:else}
         <img src="images/{project.Image}" alt="" />
+        {/if}
     </div>
     <div class="workName">
         {project.Name}
