@@ -10,7 +10,7 @@
         },
         {
             techlogo:
-                "https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png",
+                "https://sass-lang.com/assets/img/logos/logo.svg",
             tech: "Sass (SCSS)",
         },
         {
