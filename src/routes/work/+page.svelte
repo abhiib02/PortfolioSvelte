@@ -38,7 +38,9 @@
     <div class="Heading ">WORK</div>
     <div class="Slider">
         {#each Projects as Project}
+          {#if Project.Status == "Online"}
             <Workcard project={Project} />
+            {/if}
         {/each}
     </div>
     <div class="Drag">
