@@ -72,6 +72,7 @@
 
     .Slider {
         display: flex;
+        flex-wrap:wrap;
         overflow-x: scroll;
         grid-area: Slider;
     }
