@@ -1,5 +1,69 @@
 [
    {
+      "Name": "Boss Auto Hire",
+      "Type": "Car Rental Website",
+      "Tech": [
+         "html5",
+         "css3",
+         "js",
+         "ci4"
+      ],
+      "Desc": "A car rental service company Based in Australia",
+      "Image": "https://i.ibb.co/mN89xf2/image.png",
+      "Link": "https://bossautohire.com.au/",
+      "Status": "Online",
+      "Published": "Sep 2023",
+      "Info": ""
+   },
+   {
+      "Name": "DeployIQ",
+      "Type": "Career Consulting Website",
+      "Tech": [
+         "html5",
+         "css3",
+         "js",
+         "ci4"
+      ],
+      "Desc": "A Career Consulting Company Based in Hyderabad",
+      "Image": "https://i.ibb.co/WzwkKT8/image.png",
+      "Link": "https://deployiq.in",
+      "Status": "Online",
+      "Published": "Sep 2023",
+      "Info": ""
+   },
+   {
+      "Name": "Wyrobo",
+      "Type": "STEAM Kids Teaching Website",
+      "Tech": [
+         "html5",
+         "css3",
+         "js",
+         "ci4"
+      ],
+      "Desc": "A STEAM learning company for kids ",
+      "Image": "https: //i.ibb.co/KjxGMR3/image.png",
+      "Link": "https://wyrobo.com/",
+      "Status": "Online",
+      "Published": "Aug 2023",
+      "Info": ""
+   },
+   {
+      "Name": "Nxtway digital Studio",
+      "Type": "Digital Marketing Agency Website",
+      "Tech": [
+         "html5",
+         "css3",
+         "js",
+         "ci4"
+      ],
+      "Desc": "Digital Marketing Company Subsidery of Nxtwaystartup ",
+      "Image": "https://i.ibb.co/sRMWj9N/image.png",
+      "Link": "https://wyrobo.com/",
+      "Status": "Online",
+      "Published": "Aug 2023",
+      "Info": ""
+   },
+   {
       "Name": "Cocoo Craft",
       "Type": "Events Planning and Production Company",
       "Tech": [
@@ -10,7 +74,7 @@
       ],
       "Desc": "A Events Planning and Production Company",
       "Image": "https://i.ibb.co/sQyV9L1/image.png",
-      "Link": "#",
+      "Link": "https://cocoocraft.com/",
       "Status": "Online",
       "Published": "Jul 2023",
       "Info": ""
@@ -74,7 +138,7 @@
          "php"
       ],
       "Desc": "A Website for compliance issues that small businesses and startups face",
-      "Image": "https://i.imgur.com/NEcKZyn.png",
+      "Image": "https://i.ibb.co/4Wvdc5G/image.png",
       "Link": "https://nxtwaystartup.com/",
       "Status": "Online",
       "Published": "Apr 2023",
