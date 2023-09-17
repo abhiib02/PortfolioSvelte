@@ -9,8 +9,7 @@
             tech: "CSS3",
         },
         {
-            techlogo:
-                "https://sass-lang.com/assets/img/logos/logo.svg",
+            techlogo: "https://sass-lang.com/assets/img/logos/logo.svg",
             tech: "Sass (SCSS)",
         },
         {
@@ -187,5 +186,47 @@
         transform-origin: center;
         border-radius: 10px;
         background: #111;
+    }
+    @media only screen and (max-width: 996px) {
+        .container {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            padding: 10px;
+            overflow: hidden;
+            width: 100%;
+        }
+        .Description {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+            grid-area: Description;
+            font-size: 0.8rem;
+            color: white;
+        }
+        .boxes ul {
+            transform-origin: top;
+            transform: scale(0.8);
+        }
+        .boxes ul li img {
+            width: 3rem;
+            height: 3rem;
+            object-fit: contain;
+            place-self: center;
+        }
+        .boxes ul li:active {
+            transform: scale(1.5);
+            outline: 1px solid var(--maincolor);
+            transform-origin: center;
+            border-radius: 10px;
+            background: #111;
+        }
+        .Heading {
+            grid-area: Heading;
+            font-size: 4rem;
+            font-weight: bold;
+            place-self: center;
+            color: white;
+        }
     }
 </style>

@@ -12,8 +12,9 @@
         <br /><span>Blender</span>
         Skills
     </div>
-
-    <img class="image" style="" src="image.webp" alt="" />
+    <div class="image">
+        <img class="" style="" src="image.webp" alt="" />
+    </div>
 </div>
 
 <style>
@@ -47,7 +48,7 @@
         place-self: center;
     }
 
-    .image {
+    .image img {
         width: 100%;
         height: 99.4%;
         grid-area: image;
@@ -56,5 +57,33 @@
     span {
         font-weight: bold;
         color: var(--maincolor);
+    }
+    @media only screen and (max-width: 996px) {
+        .container {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            padding: 10px;
+            overflow: hidden;
+            width: 100%;
+        }
+        .Heading {
+            grid-area: Heading;
+            font-size: 4rem;
+            font-weight: bold;
+            place-self: center;
+            color: white;
+        }
+        .Description {
+            font-size: 1rem;
+            color: white;
+        }
+
+        .image img {
+            width: 100%;
+            height: 99.4%;
+            grid-area: image;
+            object-fit: cover;
+        }
     }
 </style>

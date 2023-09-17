@@ -11,6 +11,7 @@
     <div class="Footer">
         <a href="/"><button class="submit">Back to Home</button></a>
     </div>
+    <div />
 </div>
 
 <style>
@@ -70,5 +71,32 @@
     }
     a {
         text-decoration: none;
+    }
+    @media only screen and (max-width: 996px) {
+        .container {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            padding: 10px;
+            overflow: hidden;
+            width: 100%;
+        }
+        .Heading {
+            grid-area: Heading;
+            font-size: 3rem;
+            font-weight: bold;
+            place-self: center;
+            color: white;
+        }
+        .Description {
+            grid-area: Description;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            color: white;
+            place-self: center;
+        }
     }
 </style>

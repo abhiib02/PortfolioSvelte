@@ -35,23 +35,24 @@
         bottom: 0;
         height: 100vh;
         z-index: -1;
-        animation : video-bg 8.36s ease forwards;
+        animation: video-bg 8.36s ease forwards;
+    }
+
+    @keyframes video-bg {
+        0% {
+            filter: grayscale(1);
         }
-    @keyframes video-bg{
-        0%{
-            filter:grayscale(1);
+        90% {
+            filter: grayscale(1);
         }
-        90%{
-            filter:grayscale(1);
+        98% {
+            filter: grayscale(1);
         }
-        98%{
-            filter:grayscale(1);
+        99% {
+            filter: grayscale(0);
         }
-        99%{
-             filter:grayscale(0);
-        }
-        100%{
-            filter:brightness(1.5);
+        100% {
+            filter: brightness(1.5);
         }
     }
     .container {
@@ -102,5 +103,44 @@
     }
     .Work {
         grid-area: Work;
+    }
+    @media only screen and (max-width: 996px) {
+        #myVideo {
+            width: 180%;
+            height: 100vh;
+        }
+        .container {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            padding: 10px;
+            overflow: hidden;
+            width: 100%;
+        }
+        .Logo {
+            width: 100%;
+            place-self: top;
+        }
+        .Work {
+            margin-top: 10%;
+            text-align: center;
+            display: none;
+        }
+        .carousal {
+            grid-area: carousal;
+            place-self: center;
+            display: none;
+        }
+
+        .Worked div {
+            font-size: 12px;
+        }
+        .Worked div:nth-child(2) {
+            width: 50%;
+            word-wrap: break-word;
+            color: white;
+            text-align: right;
+            font-size: 12px;
+        }
     }
 </style>

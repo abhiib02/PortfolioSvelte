@@ -35,19 +35,19 @@
 </script>
 
 <div class="container">
-    <div class="Heading ">WORK</div>
+    <div class="Heading">WORK</div>
     <div class="Slider">
         {#each Projects as Project}
-          {#if Project.Status == "Online"}
-            <Workcard project={Project} />
+            {#if Project.Status == "Online"}
+                <Workcard project={Project} />
             {/if}
         {/each}
     </div>
     <div class="Drag">
         <div style="width:50%;display:flex;justify-content:space-evenly;">
-        <span class="main-color">&larr;</span> 
-        DRAG
-        <span class="main-color">&rarr;</span>
+            <span class="main-color">&larr;</span>
+            DRAG
+            <span class="main-color">&rarr;</span>
         </div>
     </div>
 </div>
@@ -76,7 +76,6 @@
         grid-area: Slider;
     }
     .Drag {
-        
         grid-area: Drag;
         font-size: 2rem;
         display: flex;
@@ -85,5 +84,22 @@
     }
     .main-color {
         color: var(--maincolor);
+    }
+    @media only screen and (max-width: 996px) {
+        .container {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            padding: 10px;
+            overflow: hidden;
+            width: 100%;
+        }
+        .Heading {
+            grid-area: Heading;
+            font-size: 4rem;
+            font-weight: bold;
+            place-self: center;
+            color: white;
+        }
     }
 </style>

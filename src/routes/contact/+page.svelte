@@ -33,10 +33,12 @@
 
     <div class="Footer">
         Made With 💓 using &nbsp;
-        <a href="https://kit.svelte.dev/"><img
-            src="https://miro.medium.com/max/400/0*r6OTkIa8jyneCBGY.png"
-            alt=""
-        /></a>
+        <a href="https://kit.svelte.dev/"
+            ><img
+                src="https://miro.medium.com/max/400/0*r6OTkIa8jyneCBGY.png"
+                alt=""
+            /></a
+        >
     </div>
 
     <form
@@ -64,13 +66,16 @@
             <textarea
                 rows="10"
                 class="input"
-                style="height:10rem;padding:10px;"
+                style="padding:10px;"
                 autocomplete="off"
                 name="message"
             />
         </fieldset>
         <button type="submit" class="submit">Send</button>
     </form>
+    <div />
+    <div />
+    <div />
 </div>
 
 <style>
@@ -172,5 +177,37 @@
     li a {
         text-decoration: none;
         color: white;
+    }
+    textarea.input {
+        height: 10rem;
+    }
+    @media only screen and (max-width: 996px) {
+        .container {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            padding: 10px;
+            overflow: hidden;
+            width: 100%;
+        }
+        .Heading {
+            grid-area: Heading;
+            font-size: 4rem;
+            font-weight: bold;
+            place-self: center;
+            color: white;
+        }
+        .form {
+            grid-area: form;
+            place-self: center;
+            width: 100%;
+        }
+        .sub-heading {
+            font-size: 2rem;
+            font-weight: 600;
+        }
+        textarea.input {
+            height: 3rem;
+        }
     }
 </style>
