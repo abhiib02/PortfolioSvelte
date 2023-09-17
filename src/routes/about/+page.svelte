@@ -12,9 +12,7 @@
         <br /><span>Blender</span>
         Skills
     </div>
-    <div class="image">
-        <img class="" style="" src="image.webp" alt="" />
-    </div>
+    <img class="image" style="" src="image.webp" alt="" />
 </div>
 
 <style>
@@ -48,7 +46,7 @@
         place-self: center;
     }
 
-    .image img {
+    .image {
         width: 100%;
         height: 99.4%;
         grid-area: image;
@@ -69,7 +67,7 @@
         }
         .Heading {
             grid-area: Heading;
-            font-size: 3.5rem;
+            font-size: 4rem;
             font-weight: bold;
             place-self: center;
             color: white;
@@ -79,7 +77,7 @@
             color: white;
         }
 
-        .image img {
+        .image {
             width: 100%;
             height: 99.4%;
             grid-area: image;
