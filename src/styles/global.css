@@ -72,7 +72,7 @@ body {
 
 @media only screen and (max-width: 996px) {
   .fullpage {
-    height: 100vh;
+    height: 100dvh;
   }
 
 }
