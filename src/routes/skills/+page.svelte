@@ -165,6 +165,7 @@
         align-items: center;
         width: 100%;
         gap: 1px;
+        transform: scale(1.5);
     }
     .boxes ul li {
         width: 5rem;
