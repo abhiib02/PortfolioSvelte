@@ -208,7 +208,7 @@ padding-inline:5px;
             font-weight: 600;
         }
         textarea.input {
-            height: 3rem;
+            height: 2.5rem;
         }
     }
 </style>
