@@ -151,7 +151,7 @@ padding-inline:5px;
     .fieldset,
     .fieldset:focus-visible {
         border: 2px solid var(--maincolor);
-        border-radius: 10px;
+        border-radius: 8px;
         position: relative;
         margin: 2rem 0;
     }
