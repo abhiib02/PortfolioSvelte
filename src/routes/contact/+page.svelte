@@ -135,6 +135,7 @@
         color: white;
         background: #050505;
         transform: translate(20px, -50%);
+padding-inline:5px;
     }
     .input,
     input,
