@@ -63,10 +63,11 @@
         </fieldset>
         <fieldset class="fieldset">
             <label for="Name">Message</label>
-            <textarea
-                rows="10"
-                class="input"
-                style="padding:10px;"
+            <input
+                type="text"
+               
+                
+      
                 autocomplete="off"
                 name="message"
             />
