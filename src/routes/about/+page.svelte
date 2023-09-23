@@ -2,7 +2,7 @@
 </script>
 
 <div class="about container gcontainer fullpage">
-    <div class="Heading">ABOUT US</div>
+    <div class="Heading">ABOUT</div>
     <div class="Description">
         I am a Tech enthusiast who want to know about new technologies but fond
         of
