@@ -45,9 +45,9 @@
     </div>
     <div class="Drag">
         <div style="width:50%;display:flex;justify-content:space-evenly;">
-            <p class="main-color">&larr;&nbsp;</p>
+            <p class="main-color">&larr;&nbsp;&nbsp;</p>
             SWIPE
-            <p class="main-color">&rarr;&nbsp;</p>
+            <p class="main-color">&nbsp;&nbsp;&rarr;</p>
         </div>
     </div>
 </div>
