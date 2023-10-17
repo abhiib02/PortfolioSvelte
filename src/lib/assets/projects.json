@@ -1,5 +1,21 @@
 [
    {
+      "Name": "Deploy OPTIQIQ",
+      "Type": "Career Consulting Website",
+      "Tech": [
+         "html5",
+         "css3",
+         "js",
+         "ci4"
+      ],
+      "Desc": "A Career Consulting Company Based in Hyderabad",
+      "Image": "https://i.ibb.co/KGwFz6t/deployiq.webp",
+      "Link": "https://deployoptiqiq.in/",
+      "Status": "Online",
+      "Published": "Oct 2023",
+      "Info": ""
+   },
+   {
       "Name": "Yuva Kaushal Vikas Mandal",
       "Type": "NGO Website",
       "Tech": [
@@ -41,22 +57,6 @@
       "Desc": "A car rental service company Based in Australia",
       "Image": "https://i.ibb.co/mN89xf2/image.png",
       "Link": "https://bossautohire.com.au/",
-      "Status": "Online",
-      "Published": "Sep 2023",
-      "Info": ""
-   },
-   {
-      "Name": "DeployIQ",
-      "Type": "Career Consulting Website",
-      "Tech": [
-         "html5",
-         "css3",
-         "js",
-         "ci4"
-      ],
-      "Desc": "A Career Consulting Company Based in Hyderabad",
-      "Image": "https://i.ibb.co/WzwkKT8/image.png",
-      "Link": "https://deployiq.in",
       "Status": "Online",
       "Published": "Sep 2023",
       "Info": ""
