@@ -16,6 +16,21 @@
       "Info": ""
    },
    {
+      "Name": "GB GROUP",
+      "Type": "Multi Industry Company",
+      "Tech": [
+         "html5",
+         "css3",
+         "js",
+         "ci4"
+      ],
+      "Desc": "Multi Industry Company",
+      "Image": "https://nxtway.in/assets/images/gb.webp",
+      "Link": "https://gbgroup.com.in/",
+      "Status": "Online",
+      "Published": "Sep 2023",
+   },
+   {
       "Name": "Yuva Kaushal Vikas Mandal",
       "Type": "NGO Website",
       "Tech": [
