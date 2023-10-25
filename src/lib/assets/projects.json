@@ -1,5 +1,21 @@
 [
    {
+      "Name": "Select Solar & Electronics",
+      "Type": "Solar Panel Company",
+      "Tech": [
+         "html5",
+         "css3",
+         "js",
+         "ci4"
+      ],
+      "Desc": "A Solar Panel Company Based in New South Wales,Ausralia",
+      "Image": "https://i.ibb.co/khtPGF3/Caspture.webp",
+      "Link": "https://selectse.com.au/",
+      "Status": "Online",
+      "Published": "Oct 2023",
+      "Info": ""
+   },
+   {
       "Name": "Deploy OPTIQIQ",
       "Type": "Career Consulting Website",
       "Tech": [
