@@ -5,9 +5,9 @@
 <div class="workCard">
     <div class="workImage">
         {#if (project.Image).includes('http')}
-        <img src="{project.Image}" alt="" />
+        <img src="{project.Image}" loading="lazy" alt="" />
         {:else}
-        <img src="images/{project.Image}" alt="" />
+        <img src="images/{project.Image}" loading="lazy" alt="" />
         {/if}
     </div>
     <div class="workName">
