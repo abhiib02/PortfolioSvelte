@@ -1,4 +1,37 @@
 [
+    {
+      "Name": "Voyagersbeat",
+      "Type": "Travel Agency Website for customized Packages and Booking",
+      "Tech": [
+         "html5",
+         "css3",
+         "js",
+         "php"
+      ],
+      "Desc": "Travel Agency Website for customized Packages and Booking",
+      "Image": "vbnov2022.png",
+      "Link": "https://voyagersbeat.com",
+      "Status": "Online",
+      "Published": "Mar 2019",
+      "Info": "Currently Working",
+      "Github": "https://github.com/abhiib02/Voyagersbeat"
+   },
+    {
+      "Name": "Nxtway digital Studio",
+      "Type": "Digital Marketing Agency Website",
+      "Tech": [
+         "html5",
+         "css3",
+         "js",
+         "ci4"
+      ],
+      "Desc": "Digital Marketing Company Subsidery of Nxtwaystartup ",
+      "Image": "https://i.ibb.co/5TCkNtG/image.png",
+      "Link": "https://nxtway.in/",
+      "Status": "Online",
+      "Published": "Aug 2023",
+      "Info": ""
+   },
    {
       "Name": "Select Solar & Electronics",
       "Type": "Solar Panel Company",
@@ -47,6 +80,19 @@
       "Published": "Sep 2023"
    },
    {
+      "Name": "PageBar.js",
+      "Type": "Page Bar Scroll Remaining at top",
+      "Tech": [
+         "js"
+      ],
+      "Desc": "A very Small JS library",
+      "Image": "https://i.ibb.co/hYj02zF/image.png",
+      "Link": "https://abhiib02.github.io/PageBar/",
+      "Status": "Online",
+      "Published": "Sep 2023",
+      "Github": "https://github.com/abhiib02/PageBar"
+   },
+   {
       "Name": "Yuva Kaushal Vikas Mandal",
       "Type": "NGO Website",
       "Tech": [
@@ -62,19 +108,6 @@
       "Status": "Online",
       "Published": "Sep 2023",
       "Info": ""
-   },
-   {
-      "Name": "PageBar.js",
-      "Type": "Page Bar Scroll Remaining at top",
-      "Tech": [
-         "js"
-      ],
-      "Desc": "A very Small JS library",
-      "Image": "https://i.ibb.co/hYj02zF/image.png",
-      "Link": "https://abhiib02.github.io/PageBar/",
-      "Status": "Online",
-      "Published": "Sep 2023",
-      "Github": "https://github.com/abhiib02/PageBar"
    },
    {
       "Name": "Boss Auto Hire",
@@ -104,22 +137,6 @@
       "Desc": "A STEAM learning company for kids ",
       "Image": "https://i.ibb.co/KjxGMR3/image.png",
       "Link": "https://wyrobo.com/",
-      "Status": "Online",
-      "Published": "Aug 2023",
-      "Info": ""
-   },
-   {
-      "Name": "Nxtway digital Studio",
-      "Type": "Digital Marketing Agency Website",
-      "Tech": [
-         "html5",
-         "css3",
-         "js",
-         "ci4"
-      ],
-      "Desc": "Digital Marketing Company Subsidery of Nxtwaystartup ",
-      "Image": "https://i.ibb.co/5TCkNtG/image.png",
-      "Link": "https://nxtway.in/",
       "Status": "Online",
       "Published": "Aug 2023",
       "Info": ""
@@ -205,23 +222,7 @@
       "Published": "Apr 2023",
       "Info": ""
    },
-   {
-      "Name": "Voyagersbeat",
-      "Type": "Travel Agency Website for customized Packages and Booking",
-      "Tech": [
-         "html5",
-         "css3",
-         "js",
-         "php"
-      ],
-      "Desc": "Travel Agency Website for customized Packages and Booking",
-      "Image": "vbnov2022.png",
-      "Link": "https://voyagersbeat.com",
-      "Status": "Online",
-      "Published": "Mar 2019",
-      "Info": "Currently Working",
-      "Github": "https://github.com/abhiib02/Voyagersbeat"
-   },
+  
    {
       "Name": "Youtube",
       "Type": "Browser Extension",
