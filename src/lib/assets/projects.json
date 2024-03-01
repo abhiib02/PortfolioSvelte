@@ -34,39 +34,6 @@
       "Github": ""
    },
    {
-      "Name": "Voyagersbeat",
-      "Type": "Travel Agency Website for customized Packages and Booking",
-      "Tech": [
-         "html5",
-         "css3",
-         "js",
-         "php"
-      ],
-      "Desc": "Travel Agency Website for customized Packages and Booking",
-      "Image": "https://i.ibb.co/cCz2XNC/image.png",
-      "Link": "https://voyagersbeat.com",
-      "Status": "Online",
-      "Published": "Mar 2019",
-      "Info": "Currently Working",
-      "Github": "https://github.com/abhiib02/Voyagersbeat"
-   },
-   {
-      "Name": "Nxtway digital Studio",
-      "Type": "Digital Marketing Agency Website",
-      "Tech": [
-         "html5",
-         "css3",
-         "js",
-         "ci4"
-      ],
-      "Desc": "Digital Marketing Company Subsidery of Nxtwaystartup ",
-      "Image": "https://i.ibb.co/5TCkNtG/image.png",
-      "Link": "https://nxtway.in/",
-      "Status": "Online",
-      "Published": "Aug 2023",
-      "Info": ""
-   },
-   {
       "Name": "Select Solar & Electronics",
       "Type": "Solar Panel Company",
       "Tech": [
@@ -114,19 +81,6 @@
       "Published": "Sep 2023"
    },
    {
-      "Name": "PageBar.js",
-      "Type": "Page Bar Scroll Remaining at top",
-      "Tech": [
-         "js"
-      ],
-      "Desc": "A very Small JS library",
-      "Image": "https://i.ibb.co/hYj02zF/image.png",
-      "Link": "https://abhiib02.github.io/PageBar/",
-      "Status": "Online",
-      "Published": "Sep 2023",
-      "Github": "https://github.com/abhiib02/PageBar"
-   },
-   {
       "Name": "Yuva Kaushal Vikas Mandal",
       "Type": "NGO Website",
       "Tech": [
@@ -157,6 +111,22 @@
       "Link": "https://bossautohire.com.au/",
       "Status": "Online",
       "Published": "Sep 2023",
+      "Info": ""
+   },
+   {
+      "Name": "Nxtway digital Studio",
+      "Type": "Digital Marketing Agency Website",
+      "Tech": [
+         "html5",
+         "css3",
+         "js",
+         "ci4"
+      ],
+      "Desc": "Digital Marketing Company Subsidery of Nxtwaystartup ",
+      "Image": "https://i.ibb.co/5TCkNtG/image.png",
+      "Link": "https://nxtway.in/",
+      "Status": "Online",
+      "Published": "Aug 2023",
       "Info": ""
    },
    {
@@ -257,6 +227,23 @@
       "Info": ""
    },
    {
+      "Name": "Voyagersbeat",
+      "Type": "Travel Agency Website for customized Packages and Booking",
+      "Tech": [
+         "html5",
+         "css3",
+         "js",
+         "php"
+      ],
+      "Desc": "Travel Agency Website for customized Packages and Booking",
+      "Image": "https://i.ibb.co/cCz2XNC/image.png",
+      "Link": "https://voyagersbeat.com",
+      "Status": "Online",
+      "Published": "Mar 2019",
+      "Info": "Currently Working",
+      "Github": "https://github.com/abhiib02/Voyagersbeat"
+   },
+   {
       "Name": "Youtube",
       "Type": "Browser Extension",
       "Tech": [
@@ -284,20 +271,6 @@
       "Github": "https://github.com/abhiib02/exhaust-baba"
    },
    {
-      "Name": "Lite Carousal",
-      "Type": "Javacript Practice (Personal Side Project)",
-      "Tech": [
-         "html5",
-         "css3",
-         "js"
-      ],
-      "Image": "uls.jpg",
-      "Link": "https://abhiib02.github.io/Ultra_Lite_Carousal/",
-      "Status": "Online",
-      "Published": "Feb 2022",
-      "Github": "https://github.com/abhiib02/Ultra_Lite_Carousal"
-   },
-   {
       "Name": "Elliot Waves",
       "Type": "Investment and Trading Tool",
       "Tech": [
@@ -310,20 +283,6 @@
       "Status": "Online",
       "Published": "Dec 2021",
       "Github": "https://github.com/abhiib02/elliot_wave_calc"
-   },
-   {
-      "Name": "Bhardwaj Netlify",
-      "Type": "Old PortFolio",
-      "Tech": [
-         "html5",
-         "css3",
-         "vuejs"
-      ],
-      "Image": "oldportfolio.png",
-      "Link": "https://bhardwaj-old.netlify.app/#/",
-      "Status": "Online",
-      "Published": "Nov 2019",
-      "Github": "https://github.com/abhiib02/vue"
    },
    {
       "Name": "Daikichi Service",
@@ -352,21 +311,6 @@
       "Link": "https://laxmicart.com/",
       "Status": "Offline",
       "Published": "Jan 2021"
-   },
-   {
-      "Name": "SimpleCarousel",
-      "Type": "Javacript Practice (Personal Side Project)",
-      "Tech": [
-         "html5",
-         "css3",
-         "js",
-         "vuejs"
-      ],
-      "Image": "carousal.jpg",
-      "Link": "https://abhiib02.github.io/Simplest-Carousal/",
-      "Status": "Online",
-      "Published": "Dec 2020",
-      "Github": "https://github.com/abhiib02/Simplest-Carousal"
    },
    {
       "Name": "Woolman",
@@ -425,6 +369,20 @@
       "Published": "May 2020"
    },
    {
+      "Name": "Bhardwaj Netlify",
+      "Type": "Old PortFolio",
+      "Tech": [
+         "html5",
+         "css3",
+         "vuejs"
+      ],
+      "Image": "oldportfolio.png",
+      "Link": "https://bhardwaj-old.netlify.app/#/",
+      "Status": "Online",
+      "Published": "Nov 2019",
+      "Github": "https://github.com/abhiib02/vue"
+   },
+   {
       "Name": "gangmy.design",
       "Type": "Graphic Designer Portfolio Website",
       "Tech": [
@@ -436,7 +394,7 @@
       "Image": "gang.jpg",
       "Link": "http://gangmy.design/",
       "Status": "Offline",
-      "Published": "Oct 2020"
+      "Published": "Oct 2019"
    },
    {
       "Name": "unitedchemical",
