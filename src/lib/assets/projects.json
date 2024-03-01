@@ -1,5 +1,39 @@
 [
-    {
+   {
+      "Name": "Dogra Human Helping Foundation",
+      "Type": "NGO Website",
+      "Tech": [
+         "html5",
+         "css3",
+         "js",
+         "ci4"
+      ],
+      "Desc": "A Ecommerce Website for Energy Drinks Product Manufacturer",
+      "Image": "https://ontoez.com/screenshot.webp",
+      "Link": "https://dograhumanhelpingfoundation.com/",
+      "Status": "Online",
+      "Published": "Feb 2024",
+      "Info": "",
+      "Github": ""
+   },
+   {
+      "Name": "On Toez Beverages",
+      "Type": "Energy Drinks Ecommerce Website",
+      "Tech": [
+         "html5",
+         "css3",
+         "js",
+         "woocommerce"
+      ],
+      "Desc": "A Ecommerce Website for Energy Drinks Product Manufacturer",
+      "Image": "https://ontoez.com/screenshot.webp",
+      "Link": "https://ontoez.com/",
+      "Status": "Online",
+      "Published": "Feb 2024",
+      "Info": "",
+      "Github": ""
+   },
+   {
       "Name": "Voyagersbeat",
       "Type": "Travel Agency Website for customized Packages and Booking",
       "Tech": [
@@ -16,7 +50,7 @@
       "Info": "Currently Working",
       "Github": "https://github.com/abhiib02/Voyagersbeat"
    },
-    {
+   {
       "Name": "Nxtway digital Studio",
       "Type": "Digital Marketing Agency Website",
       "Tech": [
@@ -222,7 +256,6 @@
       "Published": "Apr 2023",
       "Info": ""
    },
-  
    {
       "Name": "Youtube",
       "Type": "Browser Extension",
