@@ -4,12 +4,12 @@
 </script>
 
 <video autoplay muted id="myVideo">
-    <source src="vdo.webm" type="video/webm" />
+    <source src="/vdo.webm" type="video/webm" />
 </video>
 <div class="container">
     <div class="carousal" />
     <div class="Logo">
-        <img src="logo2.svg" style="width: 100%;" alt="" />
+        <img src="/logo2.svg" style="width: 100%;" alt="" />
     </div>
     <div class="Worked">
         <div>
